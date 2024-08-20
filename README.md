@@ -1,6 +1,6 @@
-# Emmeffe - Make Friends. Emmeffe is the groundbreaking app designed to help you expand your social circle and make authentic friends wherever you are. Tailored to provide a friendly and engaging connection experience, Emmeffe makes it easy to meet people who share your interests and passions.
+# Emmeffe - Make Friends. 
 
-Emmeffe - Make Friends
+Emmeffe - Make Friends.
 
 Discover, connect, and build lasting friendships with Emmeffe!
 
